@@ -1,0 +1,22 @@
+/target
+*.class
+*.log
+*.epoch
+*.lck
+test-output/
+bin
+
+bin/
+.settings/
+.classpath
+.project
+.idea
+
+# Mac
+.DS_Store
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+pom.xml.releaseBackup
+
